@@ -17,7 +17,8 @@ Continuous compounding EAR = e^r - 1
 (1) Ordinary annuity  
 (2) Annuity due  
 (3) Perpetuity P = A/r  
-(4) Geometric Sequence Formula <img src="https://i.ytimg.com/vi/XjdDt2xU-tw/maxresdefault.jpg" width="150" height="100">
+(4) Geometric Sequence Formula  
+<img src="https://i.ytimg.com/vi/XjdDt2xU-tw/maxresdefault.jpg" width="150" height="100">
 
 ### II. Statistics
 
@@ -26,3 +27,17 @@ Continuous compounding EAR = e^r - 1
 (2) Ordinal scale: sort data into categories  
 (3) Interval scale: equal difference between scale values. Additive and subtractive  
 (4) Ratio scale: true zero point, additive, subtractive, mutiplitive, dividitive  
+
+2. Frequency Distribution
+(1) Absolute Frequency  
+(2) Cumulative Absolute Frequency
+(3) Relative Frequencies  
+(4) Cumulative Relative Frequencies
+
+3. Quant Description of Distribution  
+(1) Central tendency (return centered)  
+(2) Dispersion (standard deviation)  
+(3) Skewness  
+(4) Kurtosis  
+(5) Moment E(x-Ex)^k *Central tendency: Ex = 0
+
