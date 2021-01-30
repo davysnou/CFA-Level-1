@@ -1,4 +1,4 @@
-# Notes for CFA Level 1
+# Detailed Notes for CFA Level 1
 
 ## I. Economics
 
